@@ -1,4 +1,4 @@
 # Echo
 Echo Startup
 
-Landing page for a non for-profit startup
+Landing page for a non for-profit startup that sells T-shirt to raise awareness...
